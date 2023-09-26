@@ -11,9 +11,6 @@ export default function App() {
   return <Text>{item.lastname}</Text>
 }
 
-//tämän alla se, missä itselläni oli ongelmaa
-//yläpuolella sama vanhanmallinen funktio
-
 const renderRow = ({item}) => (
   <Text>{item.lastname}</Text>
 )*/
